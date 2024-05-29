@@ -18,6 +18,7 @@ Step 2: Define Your Terraform Configuration
 define your 
 for reference go to this github link 
 https://github.com/nagaraju9951/terrafoem-staticwebsite-s3.git
+
 commands : 
 1. terraform init
 2. terraform plan
